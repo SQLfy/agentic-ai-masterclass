@@ -1,0 +1,62 @@
+[KB1] Flood shelter process
+If a family reports home flooding in Mercer County, we first ensure immediate safety, then direct them to the nearest open shelter (Princeton High School or East Windsor Community Center). We also arrange food, blankets, and hygiene kits within 2 hours.
+
+[KB2] Wildfire evacuation support
+For wildfire evacuations, prioritize elderly, disabled, and families with children. Coordinate with local EMS for medication pickup and transport. Default shelter is East Windsor Community Center unless otherwise instructed by county officials.
+
+[KB3] Emergency contact hotline
+The 24/7 emergency hotline is 609-555-HELP. Use this for life-threatening situations, active evacuations, or when the caller has no safe place to stay.
+
+[KB4] Password reset issues
+If a volunteer cannot reset their password, verify their email address, then send a fresh reset link from the volunteer portal. Ask them to check spam and try from a desktop browser before escalating to IT.
+
+[KB5] Volunteer scheduling for blood drives
+Volunteers can sign up for blood drives via the portal schedule. Standard shifts are 4 hours. Confirm that they have basic training and send the event address, parking details, and arrival time.
+
+[KB6] Missing donation receipt
+If a donor did not receive a receipt, first confirm the email used during donation. Resend a PDF receipt from the donor portal. If the email is wrong, update it and resend.
+
+[KB7] Recurring donation failed
+Recurring donations often fail due to expired cards. Ask the donor to update payment details in the portal and confirm the next scheduled charge date.
+
+[KB8] First aid and CPR classes
+First aid and CPR classes run monthly at Princeton Community Center and New Brunswick Training Hall. Direct people to njredcross.org/classes for the latest schedule and online registration.
+
+[KB9] Eligibility for disaster aid
+Residents affected by floods, fires, or storms in New Jersey may qualify for temporary shelter, food, clothing, and medicine support. Caseworkers perform an assessment over phone or in person at the shelter.
+
+[KB10] Handling app crashes during events
+If the reporting or volunteer app crashes during an active event, manually log the incident details (time, location, type of issue) and the volunteer’s hours. Ask them to update their app once the event is over.
+
+[KB11] Shelter capacity management
+When shelters approach 80% capacity, notify the logistics lead to prepare overflow locations. Prioritize families with children and medically fragile individuals for quieter areas.
+
+[KB12] Food and water distribution
+Standard practice is to provide at least 3 days of non-perishable food and bottled water per person for evacuees. Document any dietary restrictions and allergies.
+
+[KB13] Support for elderly evacuees
+For elderly evacuees, ask about medications, mobility aids, and caregivers. Coordinate transport with EMS if needed and ensure they have a cot close to restrooms and exits.
+
+[KB14] Volunteer onboarding
+New volunteers must complete orientation, a background check, and basic safety training before being assigned to field roles. Online orientation is available via the portal.
+
+[KB15] Newsletter and updates
+Anyone can subscribe to the NJ RedCross newsletter from the website footer form. Confirm opt-in and mention that updates include emergencies, drives, and training opportunities.
+
+[KB16] Handling general information requests
+For non-urgent general questions, direct people to njredcross.org/faq and offer to send a follow-up email with relevant links.
+
+[KB17] Blood shortage alerts
+During blood shortages, prioritize scheduling existing donors and promoting urgent drives in affected counties. Communicate that healthy donors can usually give every 56 days.
+
+[KB18] Volunteer hour corrections
+If a volunteer’s hours are logged incorrectly, ask them for the event name, date, and approximate hours. Correct the record in the system and send a confirmation email.
+
+[KB19] Tech escalation process
+If an issue cannot be resolved by basic troubleshooting (password reset, cache clear, reinstall), create an IT ticket with device type, OS version, screenshots if available, and steps to reproduce.
+
+[KB20] Handling complaints and feedback
+For complaints, listen fully, acknowledge the concern, and document the issue. Route serious complaints to the regional coordinator within 24 hours and follow up with the person once action is taken.
+
+[KB21] Weather-related preparedness info
+When people ask about preparedness (storms, floods, fires), direct them to preparedness checklists on njredcross.org/prepare and offer to email a PDF version.

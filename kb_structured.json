@@ -1,0 +1,33 @@
+{
+  "faqs": [
+    {"q": "First aid classes Mercer?", "a": "Next: Feb 5, Princeton Community Center. Register: njredcross.org/classes"},
+    {"q": "Blood drive schedule?", "a": "New Brunswick Sat 10am-4pm; Plainsboro Sun. Walk-ins OK."},
+    {"q": "Donation receipt?", "a": "Check email/spam or login to donor portal."},
+    {"q": "Volunteer signup?", "a": "app.njredcross.org/volunteer; training req'd."},
+    {"q": "Shelter locations?", "a": "Princeton HS (floods); East Windsor CC (fires). Call 609-555-HELP."},
+    {"q": "Password reset?", "a": "Portal > Forgot Password > Verify email."},
+    {"q": "Cancel recurring donation?", "a": "Portal > Billing > Edit."},
+    {"q": "CPR certification?", "a": "Valid 2yrs; renew via classes."},
+    {"q": "Aid eligibility?", "a": "Disaster-affected NJ residents; assess via hotline."},
+    {"q": "App issues?", "a": "Clear cache/reinstall; support@njredcross.org"}
+  ],
+  "past_resolutions": [
+    {"ticket_id": "T123", "category": "Aid", "urgency": 5, "summary": "Flood shelter—assigned to Plainsboro team, supplies delivered.", "resolution": "Shelter at East Windsor CC; pickup confirmed."},
+    {"ticket_id": "T456", "category": "Tech", "urgency": 4, "summary": "App crash wildfire report.", "resolution": "Manual log hours; update iOS 17+."},
+    {"ticket_id": "T789", "category": "Donations", "urgency": 2, "summary": "Missing receipt.", "resolution": "Resent PDF; tax-deductible."},
+    {"ticket_id": "T101", "category": "Volunteer", "urgency": 3, "summary": "Blood drive slot.", "resolution": "Booked Sat 11am slot."},
+    {"ticket_id": "T112", "category": "General", "urgency": 1, "summary": "Classes info.", "resolution": "Linked schedule; no RSVP needed."},
+    {"ticket_id": "T131", "category": "Aid", "urgency": 5, "summary": "Wildfire evac.", "resolution": "Med transport arranged; safe at shelter."},
+    {"ticket_id": "T415", "category": "Tech", "urgency": 2, "summary": "Portal reset.", "resolution": "New link sent; login success."},
+    {"ticket_id": "T678", "category": "Donations", "urgency": 3, "summary": "Failed recurring.", "resolution": "Updated card; next cycle OK."},
+    {"ticket_id": "T999", "category": "Volunteer", "urgency": 1, "summary": "Newsletter.", "resolution": "Subscribed; welcome email."},
+    {"ticket_id": "T202", "category": "General", "urgency": 4, "summary": "Blood alert.", "resolution": "Emergency drive today; 20 donors needed."}
+  ],
+  "customer_history": [
+    {"id": "CUST001", "name": "John Doe", "past_tickets": ["T123", "T789"], "notes": "Frequent donor; flood victim 2025."},
+    {"id": "CUST002", "name": "Jane Smith", "past_tickets": ["T456"], "notes": "Volunteer, app user."},
+    {"id": "CUST003", "name": "Mike Johnson", "past_tickets": ["T101"], "notes": "CPR certified; blood regular."},
+    {"id": "CUST004", "name": "Sarah Lee", "past_tickets": [], "notes": "New wildfire evacuee."},
+    {"id": "CUST005", "name": "Tom Wilson", "past_tickets": ["T112"], "notes": "Info seeker."}
+  ]
+}
