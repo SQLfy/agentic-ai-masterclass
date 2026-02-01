@@ -15,14 +15,26 @@ This module introduces the core concepts of Agentic AI, moving from simple LLM c
 
 ## 🛠️ Quick Start
 
-1.  **Install Dependencies:**
+1.  **Create Virtual Environment:**
     ```bash
-    pip install langchain langchain-openai langgraph python-dotenv
+    uv venv
     ```
-2.  **Set API Key:**
+2.  **Activate Virtual Environment:**
+    ```bash
+    source .venv/bin/activate
+    ```
+3.  **Install Dependencies:**
+    ```bash
+    uv pip install -r requirements.txt
+    uv pip list | grep langchain
+    ```
+4.  **Set API Key:**
     Create a `.env` file in this folder:
     ```text
     OPENAI_API_KEY="sk-..."
+
+    4.a I got stuck when trying to run the kernel.  To get the notbook to see my .venv
+    /Users/ktotten/Repo/MasterClass/.venv/bin/python -m ipykernel install --user --name=masterclass-venv --display-name="Python (MasterClass .venv)"
     ```
 3.  **Run:** Start with `1-LLMBasics.ipynb` and work your way through to the final system in notebook 6.
 
